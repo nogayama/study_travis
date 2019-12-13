@@ -29,5 +29,7 @@
 
     ![b](docs/b.png)
 
-7. a
+7.  自動的に，webhookがオンになる
+
+    ![b](docs/b.png)
 

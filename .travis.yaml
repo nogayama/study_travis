@@ -1,3 +1,2 @@
 language: bash
-script:
-- tests/mytest.sh
+script: bash tests/mytest.sh
